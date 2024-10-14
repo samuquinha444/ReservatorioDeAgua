@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\bin\Debug\net8.0\Reservatorio De Agua.exe
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\bin\Debug\net8.0\Reservatorio De Agua.deps.json
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\bin\Debug\net8.0\Reservatorio De Agua.runtimeconfig.json
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\bin\Debug\net8.0\Reservatorio De Agua.dll
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\bin\Debug\net8.0\Reservatorio De Agua.pdb
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\Reservatorio De Agua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\Reservatorio De Agua.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\Reservatorio De Agua.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\Reservatorio De Agua.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\Reservatorio De Agua.sourcelink.json
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\Reservatorio De Agua.dll
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\refint\Reservatorio De Agua.dll
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\Reservatorio De Agua.pdb
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\Reservatorio De Agua.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Samuel Soares Santos\ReservatorioDeAgua\Reservatorio De Agua\obj\Debug\net8.0\ref\Reservatorio De Agua.dll
